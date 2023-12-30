@@ -4,7 +4,7 @@ import {
     Instrument_Serif
 } from 'next/font/google'
 
-export const myFont = JetBrains_Mono({
+export const myFont = Roboto({
     weight: ['400'],
     subsets: ['latin']
 })
