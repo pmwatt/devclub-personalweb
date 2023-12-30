@@ -16,10 +16,6 @@ export default function Page() {
       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla esse maxime quos impedit veniam hic nisi labore, voluptates ut repellat blanditiis, sequi nesciunt maiores necessitatibus enim incidunt cumque dolorem quasi.</p>
       <h2 className='text-3xl pt-12 pb-2'>I like jazz</h2>
       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla esse maxime quos impedit veniam hic nisi labore, voluptates ut repellat blanditiis, sequi nesciunt maiores necessitatibus enim incidunt cumque dolorem quasi.</p>
-      <h2 className='text-3xl pt-12 pb-2'>dammit</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla esse maxime quos impedit veniam hic nisi labore, voluptates ut repellat blanditiis, sequi nesciunt maiores necessitatibus enim incidunt cumque dolorem quasi.</p>
-      <h2 className='text-3xl pt-12 pb-2'>hihihhi</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla esse maxime quos impedit veniam hic nisi labore, voluptates ut repellat blanditiis, sequi nesciunt maiores necessitatibus enim incidunt cumque dolorem quasi.</p>
     </>
   )
 }
